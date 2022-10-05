@@ -1,3 +1,3 @@
-module alm/utils
+module utils
 
 go 1.19
